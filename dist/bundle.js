@@ -1,0 +1,1 @@
+(()=>{const t=document.createElement("h1");t.textContent="Static Hosting",document.body.appendChild(t)})();
